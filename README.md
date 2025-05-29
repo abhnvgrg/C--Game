@@ -30,7 +30,7 @@ int main() {
     }
     while (guessed!= randomNumber);
 
-    printf("You guessed the numbmer in %d attempts!\n", number_of_guesses);
+    printf("You guessed the numbmer in %d attempts.\n", number_of_guesses);
     
     return 0;
 }
